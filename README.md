@@ -1,6 +1,11 @@
 # Kaanify0.1
 
 
+https://github.com/user-attachments/assets/432db9f6-4507-46b8-8801-9e7b2249b367
+
+
+
+
 # Mathematical Principles Behind `Kaanify`
 
 This simulation merges **computational geometry**, **fluid dynamics**, and **optimization** into a dynamic morphing system that reconstructs a portrait from a blank canvas.
